@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1053645058529",
+    "firebase_url": "https://examiqguru-5d9a1.firebaseio.com",
+    "project_id": "examiqguru-5d9a1",
+    "storage_bucket": "examiqguru-5d9a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053645058529:android:9a442301d54905534ce2a0",
+        "android_client_info": {
+          "package_name": "com.examiq.examiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053645058529-dgmfarne20hq7mb9u07e172mqg6kd1jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examiq.examiq",
+            "certificate_hash": "e548d959dbcd377684b112092cd52a2eb7ca4f48"
+          }
+        },
+        {
+          "client_id": "1053645058529-mfs1j9qa5h2ac93g3dov2io8k0umb0vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRjuVK26qfxBOo-opsVMQaFbSdBDk0C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053645058529-mfs1j9qa5h2ac93g3dov2io8k0umb0vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8405717001980597~1330534671"
+    }
+  ],
+  "configuration_version": "1"
+}
